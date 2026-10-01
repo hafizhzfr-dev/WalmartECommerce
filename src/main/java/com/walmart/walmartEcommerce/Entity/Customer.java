@@ -10,7 +10,7 @@ public class Customer {
     this.name = name;
   }
 
-  public assignWallet(Wallet wallet){
+  public void assignWallet(Wallet wallet) {
     this.wallet = wallet;
   }
 
