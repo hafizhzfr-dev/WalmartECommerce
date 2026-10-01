@@ -8,6 +8,7 @@ public class WalmartEcommerceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WalmartEcommerceApplication.class, args);
+		System.out.println("Hello World");
 	}
 
 }
